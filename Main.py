@@ -4,11 +4,11 @@ from keras.models import load_model
 from keras.preprocessing import image
 
 # Load the pre-trained model from the file
-model = load_model('Keras_model.h5')
+model = load_model('Your Model Path')
 
 # Initialize the webcam
 cap = cv2.VideoCapture(0)
-class_labels=['Elon Bhai','Kyouko Hori','Nil Manus','Random Poor Boy']
+class_labels=['Class 1','Class 2]
 
 while True:
     # Capture a frame from the webcam
