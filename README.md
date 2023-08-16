@@ -1,16 +1,16 @@
 # Custom Object Detection using Tensorflow and Keras
 
-[![Custom Object Detection](https://user-images.githubusercontent.com/114849222/212464790-aac929af-e9b1-4c74-ba99-dfef8cdaefd4.mp4)](https://www.youtube.com/watch?v=qxYx9qW_YyQ&t=124s)
-
 ## Overview
 
 This repository showcases a custom object detector built using the Tensorflow and Keras frameworks. The provided video demonstrates the functionality of the custom object detector. Please note that the detector has already been trained, and the video primarily focuses on the implementation code.
 
 ## Video Tutorial
 
-For a more detailed explanation of the custom object detection process, you can watch my video tutorial on YouTube. In this tutorial, I walk through the steps involved in creating and utilizing the custom object detector.
+To see the project in action, check out the following video on YouTube:
 
-[Watch the Video Tutorial](https://www.youtube.com/watch?v=qxYx9qW_YyQ&t=124s)
+[![Custom Object Detection](https://img.youtube.com/vi/qxYx9qW_YyQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=qxYx9qW_YyQ&t=124s)
+
+In this video tutorial, I walk through the steps involved in creating and utilizing the custom object detector. You'll gain insights into the technical details and practical implementation.
 
 ## Simplifying Model Creation
 
@@ -25,3 +25,4 @@ To use the custom object detection model I've provided in this repository, follo
 3. You're all set! You can now utilize the pre-trained custom object detector for your own projects.
 
 Feel free to explore the code, experiment with different datasets, and adapt the model to your specific use cases. Best of luck with your projects!
+
