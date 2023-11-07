@@ -8,7 +8,7 @@ This repository showcases a custom object detector built using the Tensorflow an
 
 To see the project in action, check out the following video on YouTube:
 
-[![Custom Object Detection](https://img.youtube.com/vi/qxYx9qW_YyQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=qxYx9qW_YyQ&t=124s)
+[![Watch the video](https://img.youtube.com/vi/4RVMltXmY2A/0.jpg)](https://www.youtube.com/watch?v=4RVMltXmY2A)
 
 In this video tutorial, I walk through the steps involved in creating and utilizing the custom object detector. You'll gain insights into the technical details and practical implementation.
 
